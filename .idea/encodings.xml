@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kodevian/beaconapp/DistanceBackgroundView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kodevian/beaconapp/activities" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kodevian/beaconapp/adapters" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/beacon_gray.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_distance.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/dot.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_navigation_arrow_back.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/stickers_unknown.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/all_demos.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/beacon_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/characteristics_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/distance_view.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/eddystone_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/eddystones_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/nearable_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/nearable_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/notify_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/update_demo.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/scan_menu.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
